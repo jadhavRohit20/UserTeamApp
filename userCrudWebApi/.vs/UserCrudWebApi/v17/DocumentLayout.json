@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UserCrudWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42906005-2AB0-4EBB-A57E-4CFDC81938E6}|UserCrudWebApi\\UserCrudWebApi.csproj|d:\\usercrudwebapi\\usercrudwebapi\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42906005-2AB0-4EBB-A57E-4CFDC81938E6}|UserCrudWebApi\\UserCrudWebApi.csproj|solutionrelative:usercrudwebapi\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42906005-2AB0-4EBB-A57E-4CFDC81938E6}|UserCrudWebApi\\UserCrudWebApi.csproj|d:\\usercrudwebapi\\usercrudwebapi\\interface\\iusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42906005-2AB0-4EBB-A57E-4CFDC81938E6}|UserCrudWebApi\\UserCrudWebApi.csproj|solutionrelative:usercrudwebapi\\interface\\iusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42906005-2AB0-4EBB-A57E-4CFDC81938E6}|UserCrudWebApi\\UserCrudWebApi.csproj|d:\\usercrudwebapi\\usercrudwebapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42906005-2AB0-4EBB-A57E-4CFDC81938E6}|UserCrudWebApi\\UserCrudWebApi.csproj|solutionrelative:usercrudwebapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42906005-2AB0-4EBB-A57E-4CFDC81938E6}|UserCrudWebApi\\UserCrudWebApi.csproj|d:\\usercrudwebapi\\usercrudwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42906005-2AB0-4EBB-A57E-4CFDC81938E6}|UserCrudWebApi\\UserCrudWebApi.csproj|solutionrelative:usercrudwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42906005-2AB0-4EBB-A57E-4CFDC81938E6}|UserCrudWebApi\\UserCrudWebApi.csproj|d:\\usercrudwebapi\\usercrudwebapi\\model\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42906005-2AB0-4EBB-A57E-4CFDC81938E6}|UserCrudWebApi\\UserCrudWebApi.csproj|solutionrelative:usercrudwebapi\\model\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42906005-2AB0-4EBB-A57E-4CFDC81938E6}|UserCrudWebApi\\UserCrudWebApi.csproj|d:\\usercrudwebapi\\usercrudwebapi\\model\\jwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42906005-2AB0-4EBB-A57E-4CFDC81938E6}|UserCrudWebApi\\UserCrudWebApi.csproj|solutionrelative:usercrudwebapi\\model\\jwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42906005-2AB0-4EBB-A57E-4CFDC81938E6}|UserCrudWebApi\\UserCrudWebApi.csproj|d:\\usercrudwebapi\\usercrudwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{42906005-2AB0-4EBB-A57E-4CFDC81938E6}|UserCrudWebApi\\UserCrudWebApi.csproj|solutionrelative:usercrudwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42906005-2AB0-4EBB-A57E-4CFDC81938E6}|UserCrudWebApi\\UserCrudWebApi.csproj|d:\\usercrudwebapi\\usercrudwebapi\\context\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42906005-2AB0-4EBB-A57E-4CFDC81938E6}|UserCrudWebApi\\UserCrudWebApi.csproj|solutionrelative:usercrudwebapi\\context\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UserCrudWebApi\\UserCrudWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "UserCrudWebApi\\Program.cs",
+              "ToolTip": "D:\\UserCrudWebApi\\UserCrudWebApi\\Program.cs",
+              "RelativeToolTip": "UserCrudWebApi\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T11:21:59.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Jwt.cs",
+              "DocumentMoniker": "D:\\UserCrudWebApi\\UserCrudWebApi\\Model\\Jwt.cs",
+              "RelativeDocumentMoniker": "UserCrudWebApi\\Model\\Jwt.cs",
+              "ToolTip": "D:\\UserCrudWebApi\\UserCrudWebApi\\Model\\Jwt.cs",
+              "RelativeToolTip": "UserCrudWebApi\\Model\\Jwt.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T11:22:00.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\UserCrudWebApi\\UserCrudWebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "UserCrudWebApi\\appsettings.json",
+              "ToolTip": "D:\\UserCrudWebApi\\UserCrudWebApi\\appsettings.json",
+              "RelativeToolTip": "UserCrudWebApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-23T11:22:00.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\UserCrudWebApi\\UserCrudWebApi\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "UserCrudWebApi\\Service\\UserService.cs",
+              "ToolTip": "D:\\UserCrudWebApi\\UserCrudWebApi\\Service\\UserService.cs",
+              "RelativeToolTip": "UserCrudWebApi\\Service\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T11:22:00.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserContext.cs",
+              "DocumentMoniker": "D:\\UserCrudWebApi\\UserCrudWebApi\\Context\\UserContext.cs",
+              "RelativeDocumentMoniker": "UserCrudWebApi\\Context\\UserContext.cs",
+              "ToolTip": "D:\\UserCrudWebApi\\UserCrudWebApi\\Context\\UserContext.cs",
+              "RelativeToolTip": "UserCrudWebApi\\Context\\UserContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T11:22:00.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\UserCrudWebApi\\UserCrudWebApi\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "UserCrudWebApi\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\UserCrudWebApi\\UserCrudWebApi\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "UserCrudWebApi\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAowBkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T11:22:00.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Users.cs",
+              "DocumentMoniker": "D:\\UserCrudWebApi\\UserCrudWebApi\\Model\\Users.cs",
+              "RelativeDocumentMoniker": "UserCrudWebApi\\Model\\Users.cs",
+              "ToolTip": "D:\\UserCrudWebApi\\UserCrudWebApi\\Model\\Users.cs",
+              "RelativeToolTip": "UserCrudWebApi\\Model\\Users.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T11:22:00.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUsers.cs",
+              "DocumentMoniker": "D:\\UserCrudWebApi\\UserCrudWebApi\\Interface\\IUsers.cs",
+              "RelativeDocumentMoniker": "UserCrudWebApi\\Interface\\IUsers.cs",
+              "ToolTip": "D:\\UserCrudWebApi\\UserCrudWebApi\\Interface\\IUsers.cs",
+              "RelativeToolTip": "UserCrudWebApi\\Interface\\IUsers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T11:22:00.676Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

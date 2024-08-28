@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3IeT1FnbV79o3obSJwpBcfY1ZBmHGZlnO2A1RWVKGtU=",
+  "Source": "UserCrudWebApi",
+  "BasePath": "_content/UserCrudWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
